@@ -39,4 +39,40 @@ Vous arrivez enfin sur cette page :
 
 ![image](https://user-images.githubusercontent.com/38752522/56073269-3edb5900-5de4-11e9-9d1a-7fa3d28a9f3a.png)
 
+***
+## Partie III Prise en main
+
+Vous devez créer un token qui va vous permettre de vous connecter après et surtout d'être identifier par Facebook
+![image](https://user-images.githubusercontent.com/38752522/56073356-ae9e1380-5de5-11e9-8198-5429555e9e3b.png)
+
+vous avez 2 possibilité :
+-> Sois vous le voulez pour un utilisateur 
+-> Sois vous le voulez directement pour une page 
+
+Pour utilisateur vous avez plusieur choix: 
+![image](https://user-images.githubusercontent.com/38752522/56073379-02a8f800-5de6-11e9-87f0-8a761730a30c.png)
+
+Je vous conseille de prendre que ce que vous avez réellement besoin.
+Sinon voila un screen de ce que j'ai choisi.
+
+![image](https://user-images.githubusercontent.com/38752522/56073396-84992100-5de6-11e9-9c43-4adf4109ec7c.png)
+
+Si vous êtez plus intéresser par une page vous pouvez choisir :
+"Obtenir un token d'accès de page"
+
+Après il vous demande de vous accepter la connection à votre page. Ensuite cela vous créer un token pour votre page quand vous aurez selection "Jeton d'accès à la page"
+
+Après il faut reste plus qu'a appuyer sur envoyer pour voir vos première information
+
+![image](https://user-images.githubusercontent.com/38752522/56073475-e9a14680-5de7-11e9-9e59-a6f971e5e73c.png)
+
+Si vous voulez mettre sur votre site internet les derniers post je vous conseil de regarder du cotés "FEED"
+
+Maintenant A vous de Jouez !! :D
+
+
+Pour plus d'information sur les [Post,Feed,likes,etc.](https://developers.facebook.com/docs/graph-api/reference/page/feed/)
+
+Cordialement,
+Axel GUZA
 
