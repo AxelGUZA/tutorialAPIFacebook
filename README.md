@@ -7,11 +7,13 @@ Nous allons voir ici comment faire marcher [l'API de facebook ](https://develope
 Dans un premier temps il va falloir allez dans [tools](https://developers.facebook.com/tools/) de facebook.
 Puis vous connecter sur cette [page](https://www.facebook.com/login/?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2F).
 
+
 Ensuite il fraudra allez dans Explorateur de L'API Graph :
 ![image](https://user-images.githubusercontent.com/38752522/56073056-96c49080-5de1-11e9-9d2c-3c04ea792e3a.png)
 
 Vous arrivez sur une page qui ressemble à ça :
-![image](https://user-images.githubusercontent.com/38752522/56073269-3edb5900-5de4-11e9-9d1a-7fa3d28a9f3a.png)
+![image](https://user-images.githubusercontent.com/38752522/56073300-d6d94280-5de4-11e9-8283-f99e275fd79d.png)
+
 
 ***
 ## Partie II Création d'une nouvelle application
