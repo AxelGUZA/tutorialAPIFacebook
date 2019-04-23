@@ -1,4 +1,88 @@
-# Bonjour et bienvenue sur le tutoriel pour API FACEBOOK.
+# UK Version Hello and welcome to the tutorial for API FACEBOOK.
+
+We will see here how to make[the facebook API ](https://developers.facebook.com/)
+
+***
+## Parti I Connexion
+First of all you will have to go to[tools](https://developers.facebook.com/tools/) on Facebook.
+Then connect to this [page](https://www.facebook.com/login/?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2F).
+
+
+Then it will fraud go to Graph API Explorer:
+![image](https://user-images.githubusercontent.com/38752522/56073056-96c49080-5de1-11e9-9d2c-3c04ea792e3a.png)
+
+You arrive on a page that looks like this:
+![image](https://user-images.githubusercontent.com/38752522/56073300-d6d94280-5de4-11e9-8283-f99e275fd79d.png)
+
+
+***
+## Parti II  Creating a new application
+
+First you go to "My Applications":
+
+
+![image](https://user-images.githubusercontent.com/38752522/56073158-16069400-5de3-11e9-818a-d411860ffa86.png)
+
+
+Then create a new application with your email and a name:
+
+
+![image](https://user-images.githubusercontent.com/38752522/56073182-52d28b00-5de3-11e9-81e1-bf7cc93898d0.png)
+
+Then pass the security check.
+
+After creating it you will receive a confirmation email, then I advise you to go to the[tools by this link](https://developers.facebook.com/tools/) then click again on "Graph API Explorer".
+
+
+You finally arrive on this page:
+
+
+![image](https://user-images.githubusercontent.com/38752522/56073269-3edb5900-5de4-11e9-9d1a-7fa3d28a9f3a.png)
+
+***
+## Parti III Getting Started
+You must create a token that will allow you to connect after and especially to be identified by Facebook
+
+![image](https://user-images.githubusercontent.com/38752522/56073356-ae9e1380-5de5-11e9-8198-5429555e9e3b.png)
+
+you have 2 possibilities:
+-> Either you want it for a user 
+-> Either you want it directly for a page 
+
+Pour utilisateur vous avez plusieurs choix: 
+![image](https://user-images.githubusercontent.com/38752522/56073379-02a8f800-5de6-11e9-87f0-8a761730a30c.png)
+
+I advise you to take only what you really need.
+Otherwise here is a screen of what I chose.
+
+![image](https://user-images.githubusercontent.com/38752522/56073396-84992100-5de6-11e9-9c43-4adf4109ec7c.png)
+If you are more interested in a page you can choose:
+"Get a page access token"
+
+Then it asks you to accept the connection to your page. Then it creates a token for your page when you have selected "Page access token"
+
+After that, all you have to do is press send to see your first information.
+
+![image](https://user-images.githubusercontent.com/38752522/56073475-e9a14680-5de7-11e9-9e59-a6f971e5e73c.png)
+
+If you want to put on your website the latest posts I advise you to look at the "FEED" side.
+
+Now it's up to you to play!! :D
+
+For more information on the [Posts,Feeds,likes,etc.](https://developers.facebook.com/docs/graph-api/reference/page/feed/)
+
+Sincerely,
+Axel GUZA
+
+
+
+***
+***
+***
+
+
+
+# FR Version Bonjour et bienvenue sur le tutoriel pour API FACEBOOK.
 
 Nous allons voir ici comment faire marcher [l'API de facebook ](https://developers.facebook.com/)
 
