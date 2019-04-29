@@ -1,4 +1,4 @@
-# UK Version Hello and welcome to the tutorial for API FACEBOOK.
+# UK Version| Hello and welcome to the tutorial for API FACEBOOK.
 
 We will see here how to make[the facebook API ](https://developers.facebook.com/)
 
@@ -82,7 +82,7 @@ Axel GUZA
 
 
 
-# FR Version Bonjour et bienvenue sur le tutoriel pour API FACEBOOK.
+# FR Version| Bonjour et bienvenue sur le tutoriel pour API FACEBOOK.
 
 Nous allons voir ici comment faire marcher [l'API de facebook ](https://developers.facebook.com/)
 
@@ -159,4 +159,7 @@ Pour plus d'informations sur les [Posts,Feeds,likes,etc.](https://developers.fac
 
 Cordialement,
 Axel GUZA
+
+
+# API Pinterest Tutorial : https://github.com/AxelGUZA/ApiPinterestTutorialToken/
 
