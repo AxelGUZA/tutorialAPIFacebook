@@ -1,6 +1,6 @@
 # UK Version| Hello and welcome to the tutorial for API FACEBOOK.
 
-We will see here how to make[the facebook API ](https://developers.facebook.com/)
+We will see here how to make [the facebook API ](https://developers.facebook.com/)
 
 ***
 ## Parti I Connexion
@@ -160,6 +160,7 @@ Pour plus d'informations sur les [Posts,Feeds,likes,etc.](https://developers.fac
 Cordialement,
 Axel GUZA
 
-
+Vous pouvez Allez voir aussi pour AUTRE API :
+# API INSTAGRAM :https://github.com/AxelGUZA/ApiInstagramTutorial
 # API Pinterest Tutorial : https://github.com/AxelGUZA/ApiPinterestTutorialToken/
 
